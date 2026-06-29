@@ -3,13 +3,13 @@
 	"id": "simplemeasure",
 	"version": "${version}",
 	"name": "SimpleMeasure",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A simple Fabric mod for easy measuring ",
 	"authors": [
-		"Me!"
+		"Benjas333"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://x.com/Benjas333Dev",
+		"sources": "https://github.com/Benjas333/SimpleMeasure-Fabric"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/simplemeasure/icon.png",
