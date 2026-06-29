@@ -1,0 +1,16 @@
+{
+  "command.simplemeasure.feedback.start.warning": "La lista de posiciones ha sido limpiada y restablecida",
+  "command.simplemeasure.feedback.add.error": "No hay posición de inicio. Use /measure start",
+  "text.simplemeasure.pos.added": "Agregada pos %d: %s X %s Y %s Z",
+  "text.simplemeasure.measure.invalid": "Data inválida para medir",
+  "text.simplemeasure.measure.simple": "Distancia: %sm\nVolumen exacto: %sm3 (%sx%sx%s)\nVolumen en bloques: %sm3 (%sx%sx%s)",
+  "text.simplemeasure.measure.multiple.header.distance": "Distancias:",
+  "text.simplemeasure.measure.multiple.field.distance": "\n  %d to %d: %sm",
+  "text.simplemeasure.measure.multiple.field.distance.addition": "\n   Sumado: %sm",
+  "text.simplemeasure.measure.multiple.header.volume.exact": "\n\nVolúmenes exactos:",
+  "text.simplemeasure.measure.multiple.field.volume.exact": "\n  %d to %d: %sm3 (%sx%sx%s)",
+  "text.simplemeasure.measure.multiple.field.volume.exact.addition": "\n   Sumado: %sm3",
+  "text.simplemeasure.measure.multiple.header.volume.blocks": "\n\nVolúmenes en bloques:",
+  "text.simplemeasure.measure.multiple.field.volume.blocks": "\n  %d to %d: %sm3 (%sx%sx%s)",
+  "text.simplemeasure.measure.multiple.field.volume.blocks.addition": "\n   Sumado: %sm3"
+}
